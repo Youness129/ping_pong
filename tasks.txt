@@ -1,0 +1,21 @@
++ setup
++ make paddels & let them move
++ make ball & let hem move
++ make collision
+    + ball with borders
+    + ball with paddels
+        + paddel 1
+        + paddel 2
++ make score
++ make "main menu"
+    + make first interface
+    + make "About me"
+    + add Music & let hem OFF & ON
+    + make "Music: ON" toggles
+    + make endo btn
+- add images
+- add sound effects
+- generate a nice "About me"
+    - add my picture
+version 0.5.0 is finished
+export the game to windows & linux
